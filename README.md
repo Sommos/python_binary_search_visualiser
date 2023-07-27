@@ -1,6 +1,10 @@
 # Python Binary Search Visualiser
 
-This program is to test sklearn, with simple machine learning algorithms, saving classifiers and a basic dataset of wine attributes. 
+<p align="center">
+    <img src="image0.png" width="800"/>
+</p>
+
+This program is to test a basic binary search algorithm, and include a visualiser.
 
 # Contribution 
 
