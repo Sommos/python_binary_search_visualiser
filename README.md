@@ -4,7 +4,7 @@
     <img src="image0.png" width="800"/>
 </p>
 
-This program is to test a basic binary search algorithm, and include a visualiser.
+This program is to test a basic binary search algorithm, and include a simple visualiser that updates in real time.
 
 # Contribution 
 
@@ -15,6 +15,5 @@ If you'd like to contribute to `python_binary_search_visualiser` please submit a
 Clone the repo:
 
     git clone https://github.com/Sommos/python_binary_search_visualiser
-
 
     cd python_binary_search_visualiser
